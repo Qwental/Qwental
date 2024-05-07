@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with Pizza project<br>🌱 I’m currently learning Fullstack<br>⚡ I'm a student of the Moscow Aviation Institute 8 faculty<br>
+🔭 I’m currently working with Pizza project<br>🌱 I’m currently learning Mobile<br>⚡ I'm a student of the Moscow Aviation Institute 8 faculty<br>
 
 
 # 💻 Tech Stack:
