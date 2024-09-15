@@ -1,33 +1,33 @@
-<h1 align="center">Hi 👋! My name is Vladimir and I'm from Vladivostok, Russia<br><br>I'm a student of the Moscow Aviation Institute 8 faculty<br><br>Currently learning C and C++</h1>
+<h2 align="center">Hi 👋! My name is Vladimir and I'm from Vladivostok, Russia<br><br>I'm a student of the Moscow Aviation Institute 8 faculty<br><br>Currently learning C and C++</h2>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="100" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="70" alt="c logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="100" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="70" alt="cplusplus logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=vim" height="100" alt="vim logo"  />
+  <img src="https://skillicons.dev/icons?i=vim" height="70" alt="vim logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=linux" height="100" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="70" alt="linux logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=css" height="100" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="70" alt="css3 logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=html" height="100" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="70" alt="html5 logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=py" height="100" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="70" alt="python logo"  />
   <img width="20" />
-  <img src="https://skillicons.dev/icons?i=django" height="100" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="70" alt="django logo"  />
 </div>
 
 ###
 
 <div align="left">
   <a href="https://www.youtube.com/@qwental1353" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
   <a href="https://t.me/qwental" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 </div>
 
